@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top-header {
+    background: #020617;
+    color: white;
+    text-align: center;
+    padding: 25px 0;
+    font-size: 22px;
+    font-weight: bold;
+}
