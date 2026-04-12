@@ -1,10 +1,8 @@
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
 
 body {
     font-family: Arial, Helvetica, sans-serif;
@@ -22,13 +20,11 @@ main {
     width: 100%;
 }
 
-/* TÍTULO */
 main h2 {
     color: #d63384;
     font-size: 28px;
     margin-bottom: 10px;
 }
-
 
 .filtros {
     text-align: center;
@@ -55,7 +51,6 @@ main h2 {
     padding: 10px;
 }
 
-
 .noticia-card {
     background: #ffffff;
     border-radius: 15px;
@@ -68,7 +63,6 @@ main h2 {
     transform: translateY(-6px);
     box-shadow: 0 10px 25px rgba(214, 51, 132, 0.25);
 }
-
 
 .noticia-card h3 {
     color: #c2185b;
@@ -85,13 +79,11 @@ main h2 {
     text-decoration: underline;
 }
 
-
 .noticia-card p {
     margin-bottom: 8px;
     font-size: 14px;
     line-height: 1.4;
 }
-
 
 .noticia-card a {
     display: inline-block;
@@ -110,7 +102,6 @@ main h2 {
     transform: scale(1.05);
 }
 
-
 #btnLogin {
     padding: 12px 25px;
     background: #d63384;
@@ -126,7 +117,6 @@ main h2 {
     background: #ad1457;
     transform: scale(1.05);
 }
-
 
 footer {
     background: #f8cdd6;
