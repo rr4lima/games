@@ -12,3 +12,12 @@
     font-size: 22px;
     font-weight: bold;
 }
+
+@media (max-width: 768px) {
+
+    .top-header {
+        font-size: 18px;
+        padding: 15px;
+    }
+
+}
