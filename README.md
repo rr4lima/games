@@ -50,7 +50,7 @@ O sistema utiliza as seguintes tabelas:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/rr4lima/games.git
 ```
 
 ### 2. Importar o banco de dados
